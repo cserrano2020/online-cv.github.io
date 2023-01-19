@@ -17,7 +17,7 @@ sidebar:
     timezone: America/São Paulo Timezone
     citizenship:
     website: carlosserrano.me #do not add http://
-    linkedin: alandoe
+    linkedin: carloshenriqueserrano
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -30,16 +30,10 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Indiomas
       info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Português
+          level: Nativo
 
     interests:
       title: Interests
